@@ -1,0 +1,13 @@
+{
+ "applinks": {
+   "apps": [],
+   "details":[
+     {
+       "appID":"E5R2JZ6U5K.world.tally.TWTallySCPQt",
+       "paths":[
+          "/qt/*"
+        ]
+     }
+   ]
+ }
+}
