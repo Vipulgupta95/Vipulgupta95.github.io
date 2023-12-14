@@ -7,6 +7,12 @@
        "paths":[
           "/qt/*"
         ]
+     },
+     {
+       "appID":"E5R2JZ6U5K.world.tally.TWTallySCPNative",
+       "paths":[
+          "/native/*"
+        ]
      }
    ]
  }
